@@ -59,3 +59,4 @@ print_r("<br>testando print_r com string");
 print('<br>');
 var_dump([5, 2, 3, 5.8, false, 'string']);
 
+echo "<br><br><br><a href='sintaxe_basica2.php'>Página 2 >> </a>";
